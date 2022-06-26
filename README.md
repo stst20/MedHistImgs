@@ -1,5 +1,5 @@
 # MedHistImgs
-(MedHist) 28.06.2022
+28.06.2022
 
 ### Given
 - An (incomplete) db export of image names (id), years of creation and authors.
