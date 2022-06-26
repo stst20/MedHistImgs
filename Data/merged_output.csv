@@ -1,0 +1,837 @@
+;Inv.Nr.;Datierung_x;Künstler_x;Datierung_y;Künstler_y
+0;G-1990-104; - ;;;
+1;G-1990-171; - ;;;
+2;G-1990-193; - ;;-;-
+3;G-1991-018; - ;unbekannter Künstler;;
+4;G-1991-020; - ;Döring, Dr.;;
+5;G-1991-156; - ;Walker, B. W.;-;-
+6;G-1991-170; - ;unbekannter Künstler;-;-
+7;G-1991-178; - ;;;
+8;G-1991-179; - ;;;
+9;G-1991-180; - ;;;
+10;G-1991-188; - ;;;
+11;G-1991-189; - ;;;
+12;G-1991-191; - ;;;
+13;G-1991-196; - ;;;
+14;G-1991-197; - ;;-;-
+15;G-1991-201; - ;;;
+16;G-1991-204; - ;;;
+17;G-1991-205; - ;;-;-
+18;G-1991-207; - ;;;
+19;G-1991-209; - ;;-;-
+20;G-1991-210; - ;;-;-
+21;G-1991-220; - ;;;
+22;G-1991-225; - ;;;
+23;G-1991-226; - ;;-;-
+24;G-1991-230; - ;;-;-
+25;G-1991-234; - ;;-;-
+26;G-1991-235; - ;;;
+27;G-1991-236; - ;;;
+28;G-1991-245; - ;;;
+29;G-1991-248; - ;;;
+30;G-1991-250; - ;;;
+31;G-1991-252; - ;;;
+32;G-1991-253; - ;;;
+33;G-1991-254; - ;;;
+34;G-1991-255; - ;Fürst, Julius (1861-1938);-;-
+35;G-1991-258; - ;;;
+36;G-1991-267; - ;;-;-
+37;G-1991-272; - ;;;
+38;G-1991-273; - ;;;
+39;G-1991-274; - ;;;
+40;G-1991-275; - ;;;
+41;G-1991-277; - ;;;
+42;G-1991-278; - ;;;
+43;G-1991-280; - ;;;
+44;G-1991-282; - ;;;
+45;G-1991-285; - ;;;
+46;G-1991-287; - ;;;
+47;G-1991-291; - ;;-;-
+48;G-1991-292; - ;;;
+49;G-1991-294; - ;;;
+50;G-1991-295; - ;;;
+51;G-1991-296; - ;;;
+52;G-1991-297; - ;;;
+53;G-1991-299; - ;;;
+54;G-1991-302; - ;;;
+55;G-1991-303; - ;;;
+56;G-1991-304; - ;;;
+57;G-1991-305; - ;;;
+58;G-1991-306; - ;;;
+59;G-1991-308; - ;;;
+60;G-1991-313; - ;;;
+61;G-1991-315; - ;;;
+62;G-1991-318; - ;;-;-
+63;G-1991-319; - ;;-;-
+64;G-1991-322; - ;;;
+65;G-1991-324; - ;;;
+66;G-1991-340; - ;;;
+67;G-1991-342; - ;;-;-
+68;G-1991-346; - ;;;
+69;G-1991-350; - ;;;
+70;G-1991-351; - ;;;
+71;G-1991-353; - ;;;
+72;G-1991-355; - ;;;
+73;G-1991-362; - ;;;
+74;G-1991-366; - ;;-;-
+75;G-1991-368; - ;;;
+76;G-1991-372; - ;;;
+77;G-1991-378; - ;;;
+78;G-1991-382; - ;;;
+79;G-1991-384; - ;;;
+80;G-1991-385; - ;;;
+81;G-1991-394; - ;;;
+82;G-1991-399; - ;;;
+83;G-1991-400; - ;;-;-
+84;G-1991-401; - ;;-;-
+85;G-1991-406; - ;;;
+86;G-1991-411; - ;;;
+87;G-1991-412; - ;;;
+88;G-1991-416; - ;;;
+89;G-1991-420; - ;;;
+90;G-1991-424; - ;;;
+91;G-1991-425; - ;;;
+92;G-1991-442; - ;unbekannter Künstler;-;-
+93;G-1991-448; - ;;;
+94;G-1991-458; - ;;;
+95;G-1991-466; - ;;;
+96;G-1991-472; - ;;;
+97;G-1991-487; - ;;;
+98;G-1991-488; - ;;;
+99;G-1991-494; - ;;;
+100;G-1991-496; - ;;;
+101;G-1991-497; - ;;;
+102;G-1991-498; - ;;;
+103;G-1991-510; - ;;;
+104;G-1991-511; - ;;;
+105;G-1991-518; - ;;-;-
+106;G-1991-524; - ;;;
+107;G-1991-529; - ;;-;-
+108;G-1991-531; - ;;;
+109;G-1991-540; - ;;;
+110;G-1991-542; - ;;;
+111;G-1991-545; - ;;-;-
+112;G-1991-558; - ;;;
+113;G-1991-560; - ;;;
+114;G-1991-567; - ;;-;-
+115;G-1991-569; - ;;;
+116;G-1991-570; - ;;;
+117;G-1991-572; - ;;;
+118;G-1991-579; - ;;;
+119;G-1991-581; - ;;;
+120;G-1991-582; - ;;;
+121;G-1991-583; - ;;;
+122;G-1991-585; - ;;;
+123;G-1991-590; - ;;;
+124;G-1991-596; - ;;;
+125;G-1991-597; - ;;;
+126;G-1991-600; - ;;;
+127;G-1991-605; - ;;-;-
+128;G-1991-606; - ;;;
+129;G-1991-607; - ;;;
+130;G-1991-612; - ;;;
+131;G-1991-615; - ;;;
+132;G-1991-617; - ;;;
+133;G-1991-620; - ;;;
+134;G-1991-628; - ;;;
+135;G-1991-630; - ;;;
+136;G-1991-634; - ;;;
+137;G-1990-146-002; - ;;;
+138;G-1991-182-001; - ;;;
+139;G-1991-462-001; - ;;;
+140;G-1991-589-001;1840 - 1862;unbekannter Künstler, Witmaack?;;
+141;G-1991-589-002;1840 - 1862;Mencke, Dr., vermutlich;-;-
+142;G-1991-589-003;1840 - 1862;"Mencke, Dr., Blatt G-1991-589 signiert mit ""Dr. Mencke gec.""";;
+143;G-1991-589-004;1840 - 1862;Mencke, Dr., Künstler oder behandelnder Arzt?;-;-
+144;G-1991-573;1841;Dr. Königshöfer, Fr;-;-
+145;G-1991-032;1843;Lesch, Jos.;;
+146;G-1991-281;1845;Esmarch, Friedrich von (1823-1908);-;-
+147;G-1991-374;1846;;-;-
+148;G-1990-101;1852;Hartmann,;-;-
+149;G-1991-099;1852;Mencke, Dr.;-;-
+150;G-1991-556;1852;;-;-
+151;G-1991-561;1852;Esmarch, Friedrich von (1823-1908);-;-
+152;G-1990-197;1854;unbekannter Künstler;-;-
+153;G-1991-124;1854;B., F.;-;-
+154;G-1991-125;1854;B., F.;-;-
+155;G-1991-184;1854;unbekannter Künstler;-;-
+156;G-1991-383;1854;Boie, Friedrich (1826-1868);-;-
+157;G-1991-566;1854;Boie, Friedrich (1826-1868);-;-
+158;G-1991-036;1855;unbekannter Künstler;-;-
+159;G-1991-354;1855;Boie, Friedrich, oder J. Böse (1826-1868);-;-
+160;G-1991-423;1856 - 1859;unbekannter Künstler;-;-
+161;G-1991-123;1857;Meyer, [männlich], tätig um 1856;-;-
+162;G-1991-228;1857;unbekannter Künstler;-;-
+163;G-1991-239;1857;unbekannter Künstler;-;-
+164;G-1991-265;1857;Wittmaack, Johann Heinrich, ? (1822-1874);-;-
+165;G-1991-321;1857;;-;-
+166;G-1990-089;1858;unbekannter Künstler, evtl. Wittmaack;-;-
+167;G-1990-107;1858;Wittmaack, Johann Heinrich (1822-1874);-;-
+168;G-1990-123;1858;unbekannter Künstler;-;-
+169;G-1990-134;1858;Wittmaack, Johann Heinrich (1822-1874);-;-
+170;G-1990-144;1858;Wittmaack, Johann Heinrich (1822-1874);-;-
+171;G-1990-147;1858;Wittmaack, Johann Heinrich (1822-1874);-;-
+172;G-1991-028;1858;Wittmaack, Johann Heinrich (1822-1874);-;-
+173;G-1991-039;1858;Wittmaack, Johann Heinrich (1822-1874);-;-
+174;G-1991-052;1858;unbekannter Künstler;;
+175;G-1991-177;1858;;-;-
+176;G-1991-242;1858;;-;-
+177;G-1991-261;1858;unbekannter Künstler, evtl. J. H. Wittmaack;-;-
+178;G-1991-345;1858;Wittmaack, Johann Heinrich (1822-1874);-;-
+179;G-1991-432;1858;;-;-
+180;G-1991-447;1858;Wittmaack, Johann Heinrich (1822-1874);-;-
+181;G-1991-454;1858;unbekannter Künstler;-;-
+182;G-1990-102-001;1858;Wittmaack, Johann Heinrich (1822-1874);-;-
+183;G-1990-102-002;1858;;-;-
+184;G-1990-184;1858 - 1883;unbekannter Künstler;-;-
+185;G-1990-186;1858 - 1886;unbekannter Künstler;-;-
+186;G-1990-190;1858 - 1893;unbekannter Künstler;-;-
+187;G-1990-039;1859;Wittmaack, Johann Heinrich (1822-1874);-;-
+188;G-1990-141;1859;Wittmaack, Johann Heinrich (1822-1874);-;-
+189;G-1990-142;1859;Wittmaack, Johann Heinrich (1822-1874);-;-
+190;G-1991-004;1859;Wittmaack, Johann Heinrich (1822-1874);;
+191;G-1991-244;1859;Wittmaack, Johann Heinrich (1822-1874);-;-
+192;G-1991-409;1859;unbekannter Künstler;-;-
+193;G-1991-449;1859;Wittmaack, Johann Heinrich (1822-1874);-;-
+194;G-1991-627;1859;;-;-
+195;G-1991-631;1859;unbekannter Künstler, signiert mit W., evtl. J.H. Wittmaack;-;-
+196;G-1990-038;1860;Wittmaack, Johann Heinrich (1822-1874);-;-
+197;G-1990-054;1860;unbekannter Künstler, evtl. Wittmaack;-;-
+198;G-1990-103;1860;Wittmaack, Johann Heinrich (1822-1874);-;-
+199;G-1990-125;1860;Wittmaack, Johann Heinrich (1822-1874);-;-
+200;G-1990-133;1860;;;
+201;G-1991-421;1860;;-;-
+202;G-1990-003;1861;Wittmaack, Johann Heinrich (1822-1874);-;-
+203;G-1990-091;1861;Wittmaack, Johann Heinrich (1822-1874);-;-
+204;G-1990-092;1861;Wittmaack, Johann Heinrich (1822-1874);-;-
+205;G-1990-109;1861;unbekannter Künstler, W. Wenen?;-;-
+206;G-1990-187;1861;unbekannter Künstler;-;-
+207;G-1991-097;1861;Wittmaack, Johann Heinrich (1822-1874);-;-
+208;G-1991-594;1861;Wittmaack, Johann Heinrich, ? (1822-1874);-;-
+209;G-1990-007;1862;Wittmaack, Johann Heinrich (1822-1874);-;-
+210;G-1990-013;1862;unbekannter Künstler;-;-
+211;G-1990-016;1862;unbekannter Künstler;-;-
+212;G-1990-055;1862;unbekannter Künstler;-;-
+213;G-1991-086;1862;unbekannter Künstler, evtl. Wittmaack?;-;-
+214;G-1991-155;1862;unbekannter Künstler, [Wittmaack?];-;-
+215;G-1991-326;1862;unbekannter Künstler;;
+216;G-1991-614;1862;;-;-
+217;G-1991-589-005;1862 [vermutlich 1852!];Mencke, Dr.;-;-
+218;G-1990-004;1863;unbekannter Künstler;-;-
+219;G-1990-011;1863;unbekannter Künstler;-;-
+220;G-1990-014;1863;unbekannter Künstler;-;-
+221;G-1990-015;1863;unbekannter Künstler;-;-
+222;G-1990-040;1863;unbekannter Künstler;-;-
+223;G-1990-088;1863;unbekannter Künstler;-;-
+224;G-1990-090;1863;unbekannter Künstler;-;-
+225;G-1990-105;1863;;;
+226;G-1990-175;1863;unbekannter Künstler;-;-
+227;G-1990-188;1863;unbekannter Künstler;-;-
+228;G-1991-030;1863;unbekannter Künstler;-;-
+229;G-1991-037;1863;unbekannter Künstler;-;-
+230;G-1991-221;1863;unbekannter Künstler;-;-
+231;G-1991-231;1863;unbekannter Künstler;-;-
+232;G-1991-310;1863;unbekannter Künstler, evtl. Wittmaack (Stil und Datierung);-;-
+233;G-1991-357;1863;;-;-
+234;G-1991-358;1863;;-;-
+235;G-1991-415;1863;unbekannter Künstler;-;-
+236;G-1991-591;1863;;-;-
+237;G-1990-182;1863 - 1881;unbekannter Künstler;-;-
+238;G-1990-049;1864;unbekannter Künstler;-;-
+239;G-1990-099;1864;unbekannter Künstler;-;-
+240;G-1990-111;1864;unbekannter Künstler;-;-
+241;G-1991-435;1864;;-;-
+242;G-1990-087;1865;unbekannter Künstler;-;-
+243;G-1990-143;1865;unbekannter Künstler;-;-
+244;G-1991-140;1865;unbekannter Künstler;;
+245;G-1991-233;1865;Wittmaack, Johann Heinrich, ? (1822-1874);-;-
+246;G-1991-317;1865;;-;-
+247;G-1991-343;1865;unbekannter Künstler;-;-
+248;G-1991-417;1865;unbekannter Künstler;-;-
+249;G-1991-595;1865;;-;-
+250;G-1991-613;1865;;-;-
+251;G-1991-622;1865;unbekannter Künstler, evtl. Wittmaack;-;-
+252;G-1991-080;1865 - 1873;unbekannter Künstler;;
+253;G-1990-046;1866;unbekannter Künstler;-;-
+254;G-1991-019;1866;unbekannter Künstler;-;-
+255;G-1991-215;1866;unbekannter Künstler;-;-
+256;G-1991-301;1866;unbekannter Künstler, evtl. Wittmack?;-;-
+257;G-1991-328;1866;;-;-
+258;G-1991-364;1866;;-;-
+259;G-1991-445;1866;unbekannter Künstler;-;-
+260;G-1991-575;1866;unbekannter Künstler;-;-
+261;G-1990-009;1866 - 1867;unbekannter Künstler;-;-
+262;G-1990-093;1867;unbekannter Künstler;-;-
+263;G-1990-098;1867;unbekannter Künstler;-;-
+264;G-1990-118;1867;unbekannter Künstler;-;-
+265;G-1990-120;1867;unbekannter Künstler;-;-
+266;G-1990-170;1867;;-;-
+267;G-1991-023;1867;unbekannter Künstler;-;-
+268;G-1991-049;1867;unbekannter Künstler;-;-
+269;G-1991-059;1867;unbekannter Künstler, evtl. J. H. Wittmack;-;-
+270;G-1991-087;1867;unbekannter Künstler, nach Datierung, Schrift und Stil evtl. J.H. Wittmaack;-;-
+271;G-1991-100;1867;unbekannter Künstler;;
+272;G-1991-307;1867;unbekannter Künstler;-;-
+273;G-1991-388;1867;;-;-
+274;G-1991-392;1867;;-;-
+275;G-1991-460;1867;unbekannter Künstler;-;-
+276;G-1991-516;1867;Wittmaack, Johann Heinrich (1822-1874);-;-
+277;G-1991-623;1867;unbekannter Künstler, evtl. Wittmaack?;-;-
+278;G-1990-002;1868;unbekannter Künstler;-;-
+279;G-1990-085;1868;unbekannter Künstler;-;-
+280;G-1990-106;1868;unbekannter Künstler;-;-
+281;G-1990-128;1868;unbekannter Künstler, evtl. Wittmack;-;-
+282;G-1990-129;1868;unbekannter Künstler;-;-
+283;G-1991-002;1868;unbekannter Künstler, evtl. J. H. Wittmaack?;-;-
+284;G-1991-003;1868;unbekannter Künstler, [evtl.  J.H Wittmaacks];-;-
+285;G-1991-056;1868;unbekannter Künstler, Datierung und Schrift des Pat.- Namens sprechen evtl. für J. H. Wittmack;-;-
+286;G-1991-068;1868;unbekannter Künstler, [evtl J.H. Wittmaack];;
+287;G-1991-101;1868;unbekannter Künstler;;
+288;G-1991-271;1868;;-;-
+289;G-1991-312;1868;;-;-
+290;G-1991-436;1868;unbekannter Künstler;-;-
+291;G-1991-507;1868;unbekannter Künstler;-;-
+292;G-1991-528;1868;;-;-
+293;G-1991-533;1868;;-;-
+294;G-1991-534;1868;Wittmaack, Johann Heinrich, ? (1822-1874);-;-
+295;G-1991-586;1868;;-;-
+296;G-1991-626;1868;;-;-
+297;G-1991-6370;1868;unbekannter Künstler;;
+298;G-1990-191;1868 - 1887;unbekannter Künstler;-;-
+299;G-1990-041;1869;unbekannter Künstler;-;-
+300;G-1991-024;1869;unbekannter Künstler;;
+301;G-1991-081;1869;unbekannter Künstler, evtl. J. H. Wittmack?;-;-
+302;G-1991-102;1869;unbekannter Künstler;;
+303;G-1991-131;1869;unbekannter Künstler, [Wittmaack?];-;-
+304;G-1991-163;1869;unbekannter Künstler, Wittmaack?;-;-
+305;G-1991-218;1869;Wittmaack, Johann Heinrich, ? (1822-1874);-;-
+306;G-1991-276;1869;;-;-
+307;G-1991-361;1869;;-;-
+308;G-1991-387;1869;unbekannter Künstler;-;-
+309;G-1991-389;1869;unbekannter Künstler;-;-
+310;G-1991-404;1869;;-;-
+311;G-1991-408;1869;;-;-
+312;G-1991-422;1869;;-;-
+313;G-1991-426;1869;;-;-
+314;G-1991-619;1869;Wittmaack, Johann Heinrich, ? keine Signatur (1822-1874);-;-
+315;G-1990-117;1870;unbekannter Künstler;-;-
+316;G-1990-145;1870;;-;-
+317;G-1991-063;1870;unbekannter Künstler, evtl. J. H. Wittmack;-;-
+318;G-1990-025;1871;Wittmaack, Johann Heinrich (1822-1874);-;-
+319;G-1990-086;1871;unbekannter Künstler;-;-
+320;G-1990-119;1871;unbekannter Künstler;-;-
+321;G-1991-070;1871;unbekannter Künstler, der Beschriftung nach evtl. J. H. Wittmack;-;-
+322;G-1991-113;1871;unbekannter Künstler, [Wittmaack?];-;-
+323;G-1991-129;1871;Wittmaack, Johann Heinrich, ? (1822-1874);-;-
+324;G-1991-165;1871;unbekannter Künstler, Wittmaack? wurde mit W signiert;-;-
+325;G-1991-521;1871;unbekannter Künstler;-;-
+326;G-1990-122;1872;unbekannter Künstler;-;-
+327;G-1990-185;1872;unbekannter Künstler;-;-
+328;G-1991-014;1872;unbekannter Künstler;-;-
+329;G-1991-048;1872;unbekannter Künstler;;
+330;G-1991-095;1872;Viertel, Fritz;-;-
+331;G-1991-103;1872;unbekannter Künstler;-;-
+332;G-1991-144;1872;Wittmaack, Johann Heinrich, ? (1822-1874);-;-
+333;G-1991-162;1872;Wittmaack, Johann Heinrich, ? (1822-1874);-;-
+334;G-1991-176;1872;;-;-
+335;G-1991-211;1872;;-;-
+336;G-1991-279;1872;Wittmaack, Johann Heinrich (1822-1874);-;-
+337;G-1991-360;1872;;-;-
+338;G-1991-593;1872;;-;-
+339;G-1990-021;1873;unbekannter Künstler;-;-
+340;G-1990-050;1873;unbekannter Künstler;-;-
+341;G-1990-051;1873;unbekannter Künstler;-;-
+342;G-1990-189;1873;unbekannter Künstler;-;-
+343;G-1991-017;1873;unbekannter Künstler;-;-
+344;g-1991-116;1873;unbekannter Künstler, evtl. Wittmaack?;;
+345;G-1991-120;1873;unbekannter Künstler, evtl. Wittmaack?;-;-
+346;G-1991-132;1873;unbekannter Künstler, [Wittmack?];-;-
+347;G-1991-136;1873;unbekannter Künstler, Wittmaack?;-;-
+348;G-1991-208;1873;unbekannter Künstler, evtl. J. H. Wittmack?;-;-
+349;G-1991-407;1873;unbekannter Künstler;-;-
+350;G-1991-438;1873;;-;-
+351;G-1991-509;1873;;-;-
+352;G-1991-526;1873;;-;-
+353;G-1991-602;1873;;-;-
+354;G-1991-618;1873;;-;-
+355;G-1990-010;1874;unbekannter Künstler;-;-
+356;G-1990-017;1874;unbekannter Künstler;-;-
+357;G-1991-009;1874;unbekannter Künstler;;
+358;G-1991-016;1874;unbekannter Künstler;-;-
+359;G-1991-034;1874;unbekannter Künstler;;
+360;G-1991-078;1874;unbekannter Künstler;-;-
+361;G-1991-092;1874;unbekannter Künstler;;
+362;G-1991-171;1874;unbekannter Künstler;;
+363;G-1991-175;1874;;-;-
+364;G-1991-223;1874;;-;-
+365;G-1991-224;1874;;-;-
+366;G-1991-257;1874;unbekannter Künstler;-;-
+367;G-1991-356;1874;;-;-
+368;G-1991-365;1874;unbekannter Künstler;-;-
+369;G-1991-369;1874;;-;-
+370;G-1991-543;1874;;-;-
+371;G-1991-546;1874;;-;-
+372;G-1991-547;1874;unbekannter Künstler;-;-
+373;G-1990-056;1875;unbekannter Künstler;-;-
+374;G-1990-095;1875;unbekannter Künstler;-;-
+375;G-1990-132;1875;unbekannter Künstler;-;-
+376;G-1991-005;1875;unbekannter Künstler;-;-
+377;G-1991-031;1875;unbekannter Künstler;;
+378;G-1991-057;1875;unbekannter Künstler, signiert mit ,Pr';;
+379;G-1991-058;1875;unbekannter Künstler;-;-
+380;G-1991-066;1875;unbekannter Künstler;-;-
+381;G-1991-077;1875;unbekannter Künstler, Pr.;-;-
+382;G-1991-143;1875;unbekannter Künstler;;
+383;G-1991-148;1875;unbekannter Künstler;;
+384;G-1991-154;1875;unbekannter Künstler;-;-
+385;G-1991-260;1875;;-;-
+386;G-1991-373;1875;;-;-
+387;G-1991-391;1875;unbekannter Künstler;-;-
+388;G-1991-393;1875;;-;-
+389;G-1991-433;1875;;-;-
+390;G-1991-450;1875;unbekannter Künstler;-;-
+391;G-1991-457;1875;unbekannter Künstler;-;-
+392;G-1991-468;1875;unbekannter Künstler;-;-
+393;G-1991-564;1875;;-;-
+394;G-1991-601;1875;unbekannter Künstler;-;-
+395;G-1990-108;1876;unbekannter Künstler, evtl. Fürst;-;-
+396;G-1990-124;1876;unbekannter Künstler;-;-
+397;G-1990-176;1876;unbekannter Künstler;-;-
+398;G-1990-192;1876;unbekannter Künstler;-;-
+399;G-1991-012;1876;unbekannter Künstler;-;-
+400;G-1991-026;1876;Wulff,  [Nt?];-;-
+401;G-1991-075;1876;unbekannter Künstler;-;-
+402;G-1991-090;1876;unbekannter Künstler;-;-
+403;G-1991-093;1876;unbekannter Künstler;-;-
+404;G-1991-133;1876;unbekannter Künstler;-;-
+405;G-1991-199;1876;;-;-
+406;G-1991-200;1876;unbekannter Künstler;-;-
+407;G-1991-232;1876;unbekannter Künstler;-;-
+408;G-1991-314;1876;;-;-
+409;G-1991-484;1876;;-;-
+410;G-1991-508;1876;unbekannter Künstler;-;-
+411;G-1991-541;1876;;-;-
+412;G-1991-592;1876;;-;-
+413;G-1991-621;1876;;-;-
+414;G-1990-020;1877;unbekannter Künstler;-;-
+415;G-1990-023;1877;unbekannter Künstler;-;-
+416;G-1990-112;1877;unbekannter Künstler, evtl. Wittmaack;-;-
+417;G-1990-127;1877;unbekannter Künstler;-;-
+418;G-1991-010;1877;unbekannter Künstler;-;-
+419;G-1991-015;1877;unbekannter Künstler;;
+420;G-1991-025;1877;unbekannter Künstler;-;-
+421;G-1991-069;1877;unbekannter Künstler;-;-
+422;G-1991-089;1877;unbekannter Künstler;;
+423;G-1991-141;1877;unbekannter Künstler;-;-
+424;G-1991-157;1877;unbekannter Künstler;-;-
+425;G-1991-168;1877;unbekannter Künstler;;
+426;G-1991-240;1877;;-;-
+427;G-1991-283;1877;unbekannter Künstler;-;-
+428;G-1991-320;1877;unbekannter Künstler;-;-
+429;G-1991-375;1877;unbekannter Künstler;-;-
+430;G-1991-455;1877;;-;-
+431;G-1991-490;1877;unbekannter Künstler;-;-
+432;G-1991-514;1877;unbekannter Künstler;-;-
+433;G-1991-555;1877;unbekannter Künstler;-;-
+434;G-1991-629;1877;;-;-
+435;G-1990-121;1878;unbekannter Künstler;-;-
+436;G-1991-007;1878;unbekannter Künstler;-;-
+437;G-1991-067;1878;unbekannter Künstler;;
+438;G-1991-104;1878;unbekannter Künstler;-;-
+439;G-1991-128;1878;unbekannter Künstler;-;-
+440;G-1991-134;1878;unbekannter Künstler;-;-
+441;G-1991-153;1878;unbekannter Künstler, Julius Fürst?;-;-
+442;G-1991-169;1878;unbekannter Künstler;;
+443;G-1991-249;1878;unbekannter Künstler;-;-
+444;G-1991-359;1878;Breul, Clemens, oder Breue?;-;-
+445;G-1991-434;1878;unbekannter Künstler;-;-
+446;G-1991-439;1878;unbekannter Künstler;-;-
+447;G-1991-443;1878;unbekannter Künstler;-;-
+448;G-1991-464;1878;unbekannter Künstler;-;-
+449;G-1991-465;1878;unbekannter Künstler;-;-
+450;G-1991-489;1878;unbekannter Künstler;-;-
+451;G-1991-515;1878;unbekannter Künstler;-;-
+452;G-1991-537;1878;;-;-
+453;G-1991-539;1878;;-;-
+454;G-1991-544;1878;unbekannter Künstler;-;-
+455;G-1991-553;1878;unbekannter Künstler, Wittmaack ?;-;-
+456;G-1991-616;1878;;-;-
+457;G-1990-005;1879;unbekannter Künstler;-;-
+458;G-1990-019;1879;unbekannter Künstler;-;-
+459;G-1991-035;1879;unbekannter Künstler;;
+460;G-1991-040;1879;unbekannter Künstler;;
+461;G-1991-088;1879;unbekannter Künstler;-;-
+462;G-1991-150;1879;unbekannter Künstler;-;-
+463;G-1991-151;1879;unbekannter Künstler;-;-
+464;G-1991-214;1879;;-;-
+465;G-1991-288;1879;unbekannter Künstler;-;-
+466;G-1991-386;1879;unbekannter Künstler;-;-
+467;G-1991-403;1879;;-;-
+468;G-1991-410;1879;unbekannter Künstler;-;-
+469;G-1991-504;1879;unbekannter Künstler;-;-
+470;G-1991-525;1879;;-;-
+471;G-1991-149;1879 - 1878;unbekannter Künstler;-;-
+472;G-1991-011;1880;unbekannter Künstler;-;-
+473;G-1991-022;1880;unbekannter Künstler;;
+474;G-1991-072;1880;unbekannter Künstler;-;-
+475;G-1991-109;1880;unbekannter Künstler;-;-
+476;G-1991-112;1880;unbekannter Künstler;;
+477;G-1991-145;1880;unbekannter Künstler;-;-
+478;G-1991-147;1880;unbekannter Künstler;-;-
+479;G-1991-167;1880;unbekannter Künstler;-;-
+480;G-1991-194;1880;;-;-
+481;G-1991-217;1880;unbekannter Künstler;-;-
+482;G-1991-329;1880;unbekannter Künstler;-;-
+483;G-1991-377;1880;unbekannter Künstler;-;-
+484;G-1991-402;1880;unbekannter Künstler;-;-
+485;G-1991-441;1880;;-;-
+486;G-1991-446;1880;unbekannter Künstler;-;-
+487;G-1991-473;1880;unbekannter Künstler;-;-
+488;G-1991-517;1880;unbekannter Künstler;-;-
+489;G-1991-535;1880;Wittmaack, Johann Heinrich, ? (1822-1874);-;-
+490;G-1991-548;1880;unbekannter Künstler;-;-
+491;G-1991-557;1880;;-;-
+492;G-1991-584;1880;;-;-
+493;G-1991-588;1880;unbekannter Künstler;-;-
+494;G-1991-598;1880;;-;-
+495;G-1991-599;1880;;-;-
+496;G-1991-611;1880;unbekannter Künstler;-;-
+497;G-1991-624;1880;;-;-
+498;G-1990-036;1881;unbekannter Künstler;-;-
+499;G-1990-057;1881;unbekannter Künstler;-;-
+500;G-1990-080;1881;unbekannter Künstler;-;-
+501;G-1990-081;1881;unbekannter Künstler;-;-
+502;G-1991-027;1881;unbekannter Künstler;-;-
+503;G-1991-060;1881;unbekannter Künstler;-;-
+504;G-1991-062;1881;unbekannter Künstler;-;-
+505;G-1991-064;1881;unbekannter Künstler;-;-
+506;G-1991-074;1881;unbekannter Künstler;-;-
+507;G-1991-096;1881;unbekannter Künstler;-;-
+508;G-1991-122;1881;unbekannter Künstler;-;-
+509;G-1991-127;1881;unbekannter Künstler;-;-
+510;G-1991-186;1881;unbekannter Künstler;-;-
+511;G-1991-243;1881;;-;-
+512;G-1991-246;1881;;-;-
+513;G-1991-263;1881;;-;-
+514;G-1991-264;1881;unbekannter Künstler;-;-
+515;G-1991-270;1881;;-;-
+516;G-1991-289;1881;unbekannter Künstler;-;-
+517;G-1991-309;1881;;-;-
+518;G-1991-311;1881;;-;-
+519;G-1991-323;1881;unbekannter Künstler;-;-
+520;G-1991-347;1881;;-;-
+521;G-1991-376;1881;;-;-
+522;G-1991-381;1881;unbekannter Künstler;-;-
+523;G-1991-395;1881;unbekannter Künstler;-;-
+524;G-1991-397;1881;;-;-
+525;G-1991-427;1881;unbekannter Künstler;-;-
+526;G-1991-444;1881;unbekannter Künstler;-;-
+527;G-1991-480;1881;;-;-
+528;G-1991-482;1881;unbekannter Künstler;-;-
+529;G-1991-512;1881;unbekannter Künstler;-;-
+530;G-1991-520;1881;unbekannter Künstler;-;-
+531;G-1991-563;1881;unbekannter Künstler;-;-
+532;G-1991-565;1881;unbekannter Künstler;-;-
+533;G-1991-609;1881;unbekannter Künstler;-;-
+534;G-1990-136b;1881;unbekannter Künstler;-;-
+535;G-1990-028;1882;unbekannter Künstler;-;-
+536;G-1990-045;1882;unbekannter Künstler;-;-
+537;G-1990-073;1882;unbekannter Künstler;-;-
+538;G-1990-075;1882;unbekannter Künstler;-;-
+539;G-1990-140;1882;;;
+540;G-1991-021;1882;unbekannter Künstler;-;-
+541;G-1991-038;1882;unbekannter Künstler;;
+542;G-1991-084;1882;unbekannter Künstler;-;-
+543;G-1991-085;1882;unbekannter Künstler;;
+544;G-1991-105;1882;unbekannter Künstler;-;-
+545;G-1991-117;1882;unbekannter Künstler;-;-
+546;G-1991-137;1882;unbekannter Künstler;;
+547;G-1991-166;1882;unbekannter Künstler;-;-
+548;G-1991-181;1882;unbekannter Künstler;-;-
+549;G-1991-183;1882;unbekannter Künstler;-;-
+550;G-1991-187;1882;;-;-
+551;G-1991-251;1882;unbekannter Künstler;-;-
+552;G-1991-259;1882;unbekannter Künstler;-;-
+553;G-1991-300;1882;unbekannter Künstler;-;-
+554;G-1991-316;1882;;-;-
+555;G-1991-367;1882;;-;-
+556;G-1991-370;1882;;-;-
+557;G-1991-418;1882;unbekannter Künstler;-;-
+558;G-1991-440;1882;;-;-
+559;G-1991-469;1882;unbekannter Künstler;-;-
+560;G-1991-474;1882;unbekannter Künstler;-;-
+561;G-1991-530;1882;;-;-
+562;G-1991-538;1882;Wittmaack, Johann Heinrich, ? (1822-1874);-;-
+563;G-1991-574;1882;unbekannter Künstler;-;-
+564;G-1991-576;1882;;-;-
+565;G-1991-603;1882;;-;-
+566;G-1991-632;1882;;-;-
+567;G-1990-022;1883;unbekannter Künstler, evtl. J. Fürst;-;-
+568;G-1990-033;1883;unbekannter Künstler;-;-
+569;G-1990-060;1883;unbekannter Künstler;-;-
+570;G-1990-062;1883;unbekannter Künstler;-;-
+571;G-1990-067;1883;unbekannter Künstler;-;-
+572;G-1990-079;1883;unbekannter Künstler;-;-
+573;G-1990-084;1883;unbekannter Künstler;-;-
+574;G-1990-135;1883;;-;-
+575;G-1991-033;1883;unbekannter Künstler;-;-
+576;G-1991-079;1883;unbekannter Künstler;-;-
+577;G-1991-106;1883;unbekannter Künstler;-;-
+578;G-1991-107;1883;unbekannter Künstler;-;-
+579;G-1991-110;1883;unbekannter Künstler;-;-
+580;G-1991-114;1883;unbekannter Künstler;-;-
+581;G-1991-119;1883;unbekannter Künstler;-;-
+582;G-1991-202;1883;;-;-
+583;G-1991-212;1883;;-;-
+584;G-1991-229;1883;unbekannter Künstler;-;-
+585;G-1991-247;1883;;-;-
+586;G-1991-290;1883;unbekannter Künstler;-;-
+587;G-1991-414;1883;unbekannter Künstler;-;-
+588;G-1991-428;1883;unbekannter Künstler;-;-
+589;G-1991-429;1883;unbekannter Künstler;-;-
+590;G-1991-483;1883;Fürst, Julius (1861-1938);-;-
+591;G-1991-492;1883;unbekannter Künstler;-;-
+592;G-1991-503;1883;unbekannter Künstler;-;-
+593;G-1991-568;1883;unbekannter Künstler;-;-
+594;G-1991-580;1883;;-;-
+595;G-1990-136a;1883;unbekannter Künstler;-;-
+596;G-1990-136c;1883;unbekannter Künstler;-;-
+597;G-1990-183;1883 - 1889;unbekannter Künstler;-;-
+598;G-1990-001;1884;unbekannter Künstler;-;-
+599;G-1990-048;1884;unbekannter Künstler;-;-
+600;G-1990-059;1884;unbekannter Künstler;-;-
+601;G-1990-061;1884;unbekannter Künstler;-;-
+602;G-1990-065;1884;unbekannter Künstler;-;-
+603;G-1990-068;1884;unbekannter Künstler;-;-
+604;G-1990-078;1884;unbekannter Künstler;-;-
+605;G-1990-126;1884;unbekannter Künstler;-;-
+606;G-1990-180;1884;unbekannter Künstler;-;-
+607;G-1991-051;1884;unbekannter Künstler;-;-
+608;G-1991-053;1884;unbekannter Künstler;-;-
+609;G-1991-054;1884;unbekannter Künstler;-;-
+610;G-1991-071;1884;unbekannter Künstler;-;-
+611;G-1991-111;1884;unbekannter Künstler;-;-
+612;G-1991-121;1884;unbekannter Künstler;-;-
+613;G-1991-130;1884;unbekannter Künstler;-;-
+614;G-1991-213;1884;;-;-
+615;G-1991-222;1884;;-;-
+616;G-1991-241;1884;unbekannter Künstler;-;-
+617;G-1991-327;1884;unbekannter Künstler;-;-
+618;G-1991-413;1884;unbekannter Künstler;-;-
+619;G-1991-431;1884;unbekannter Künstler;-;-
+620;G-1991-452;1884;;-;-
+621;G-1991-470;1884;unbekannter Künstler;-;-
+622;G-1991-475;1884;unbekannter Künstler;-;-
+623;G-1991-495;1884;unbekannter Künstler;-;-
+624;G-1991-502;1884;unbekannter Künstler;-;-
+625;G-1991-506;1884;unbekannter Künstler;-;-
+626;G-1991-532;1884;Fürst, Julius, ? (1861-1938);-;-
+627;G-1991-551;1884;;-;-
+628;G-1991-587;1884;unbekannter Künstler;-;-
+629;G-1990-083;1885;unbekannter Künstler;-;-
+630;G-1991-001;1885;unbekannter Künstler;-;-
+631;G-1991-083;1885;unbekannter Künstler;;
+632;G-1991-094;1885;unbekannter Künstler;-;-
+633;G-1991-118;1885;unbekannter Künstler;-;-
+634;G-1991-135;1885;Fürst, Julius, signiert (1861-1938);-;-
+635;G-1991-227;1885;unbekannter Künstler;-;-
+636;G-1991-463;1885;;-;-
+637;G-1991-577;1885;Brühning, Frau;-;-
+638;G-1990-012;1886;unbekannter Künstler;-;-
+639;G-1990-047;1886;unbekannter Künstler;-;-
+640;G-1990-070;1886;unbekannter Künstler;-;-
+641;G-1990-148;1886;;-;-
+642;G-1991-043;1886;unbekannter Künstler;;
+643;G-1991-044;1886;unbekannter Künstler;;
+644;G-1991-045;1886;unbekannter Künstler;;
+645;G-1991-050;1886;unbekannter Künstler;;
+646;G-1991-298;1886;;-;-
+647;G-1991-344;1886;unbekannter Künstler;-;-
+648;G-1991-396;1886;;-;-
+649;G-1991-519;1886;;-;-
+650;G-1990-064;1887;unbekannter Künstler;-;-
+651;G-1990-066;1887;unbekannter Künstler;-;-
+652;G-1991-115;1887;unbekannter Künstler;-;-
+653;G-1991-238;1887;;-;-
+654;G-1991-405;1887;unbekannter Künstler;-;-
+655;G-1991-430;1887;unbekannter Künstler;-;-
+656;G-1991-477;1887;unbekannter Künstler;-;-
+657;G-1990-006;1888;unbekannter Künstler;-;-
+658;G-1990-094;1888;unbekannter Künstler;-;-
+659;G-1991-293;1888;unbekannter Künstler;-;-
+660;G-1991-578;1888;unbekannter Künstler;-;-
+661;G-1991-625;1888;Fürst, Julius (1861-1938);-;-
+662;G-1991-636;1888;unbekannter Künstler;-;-
+663;G-1990-018;1889;unbekannter Künstler;-;-
+664;G-1990-152;1889;unbekannter Künstler;-;-
+665;G-1991-006;1889;unbekannter Künstler;-;-
+666;G-1991-047;1889;"unbekannter Künstler; Hampke,, vgl. G-1991-139";;
+667;G-1991-139;1889;"unbekannter Künstler, Beschriftung u.li. ist nicht eindeutig Signatur: Hampke; Hampke,";-;-
+668;G-1991-571;1889;unbekannter Künstler;-;-
+669;G-1990-181;1889 - 1890;unbekannter Künstler;-;-
+670;G-1990-082;1890;unbekannter Künstler, Kürzel: HR;-;-
+671;G-1990-150;1890;;-;-
+672;G-1991-138;1890;unbekannter Künstler;-;-
+673;G-1991-146;1890;unbekannter Künstler;;
+674;G-1991-152;1890;unbekannter Künstler;-;-
+675;G-1991-159;1890;unbekannter Künstler, evtl. Rüdel?;-;-
+676;G-1991-160;1890;unbekannter Künstler, Rüdel?;-;-
+677;G-1991-161;1890;unbekannter Künstler;-;-
+678;G-1991-182-002;1890;unbekannter Künstler;;
+679;G-1991-456;1891;unbekannter Künstler;-;-
+680;G-1991-604;1891;Schmidt,;-;-
+681;G-1990-043;1892;unbekannter Künstler, evtl. J. Fürst;-;-
+682;G-1990-072;1892;unbekannter Künstler, evtl. Fürst;-;-
+683;G-1990-074;1892;unbekannter Künstler;-;-
+684;G-1990-116;1892;unbekannter Künstler, evtl. J. Fürst;-;-
+685;G-1990-130;1892;Fürst, Julius (1861-1938);-;-
+686;G-1990-131;1892;unbekannter Künstler, evtl. J. Fürst;-;-
+687;G-1990-177;1892;unbekannter Künstler;-;-
+688;G-1990-178;1892;unbekannter Künstler;-;-
+689;G-1990-179;1892;unbekannter Künstler;-;-
+690;G-1991-008;1892;Fürst, Julius (1861-1938);-;-
+691;G-1991-076;1892;Fürst, Julius (1861-1938);-;-
+692;G-1991-158;1892;Fürst, Julius (1861-1938);-;-
+693;G-1991-164;1892;unbekannter Künstler, J. Fürst?;-;-
+694;G-1991-190;1892;Fürst, Julius (1861-1938);-;-
+695;G-1991-198;1892;Fürst, Julius (1861-1938);-;-
+696;G-1991-262;1892;Fürst, Julius (1861-1938);-;-
+697;G-1991-266;1892;Fürst, Julius (1861-1938);-;-
+698;G-1991-284;1892;Fürst, Julius (1861-1938);-;-
+699;G-1991-363;1892;unbekannter Künstler;-;-
+700;G-1991-379;1892;;-;-
+701;G-1991-390;1892;Fürst, Julius (1861-1938);-;-
+702;G-1991-398;1892;Fürst, Julius (1861-1938);-;-
+703;G-1991-437;1892;;-;-
+704;G-1991-513;1892;Fürst, Julius (1861-1938);-;-
+705;G-1991-522;1892;Fürst, Julius (1861-1938);-;-
+706;G-1991-536;1892;;-;-
+707;G-1991-550;1892;Fürst, Julius, ? (1861-1938);-;-
+708;G-1991-608;1892;;-;-
+709;G-1990-024;1893;unbekannter Künstler, evtl. J. Fürst;-;-
+710;G-1990-030;1893;unbekannter Künstler, evtl. J. Fürst;-;-
+711;G-1990-031;1893;unbekannter Künstler, evtl. J. Fürst;-;-
+712;G-1990-032;1893;unbekannter Künstler, evtl. J. Fürst;-;-
+713;G-1990-044;1893;unbekannter Künstler, evtl. J. Fürst;-;-
+714;G-1990-053;1893;unbekannter Künstler;-;-
+715;G-1990-058;1893;unbekannter Künstler;-;-
+716;G-1990-063;1893;unbekannter Künstler, evtl. J. Fürst;-;-
+717;G-1990-077;1893;Fürst, Julius (1861-1938);-;-
+718;G-1990-149;1893;Fürst, Julius (1861-1938);-;-
+719;G-1990-151;1893;Fürst, Julius, ? (1861-1938);-;-
+720;G-1990-154;1893;;-;-
+721;G-1990-155;1893;;-;-
+722;G-1990-161;1893;Fürst, Julius, vermutlich (1861-1938);-;-
+723;G-1990-163;1893;;-;-
+724;G-1990-164;1893;Fürst, Julius, vermutlich (1861-1938);-;-
+725;G-1990-165;1893;;-;-
+726;G-1991-073;1893;Fürst, Julius (1861-1938);-;-
+727;G-1991-173;1893;Fürst, Julius (1861-1938);-;-
+728;G-1991-216;1893;Fürst, Julius (1861-1938);-;-
+729;G-1991-219;1893;Fürst, Julius (1861-1938);-;-
+730;G-1991-256;1893;unbekannter Künstler, Datierung, Schrift und Stil sprechen für Julius Fürst als Zeichner;-;-
+731;G-1990-162;1893 - 1894;Fürst, Julius (1861-1938);-;-
+732;G-1990-026;1894;unbekannter Künstler, evtl. J. Fürst;-;-
+733;G-1990-034;1894;unbekannter Künstler, evtl. J. Fürst;-;-
+734;G-1990-035;1894;Fürst, Julius (1861-1938);-;-
+735;G-1990-042;1894;unbekannter Künstler;-;-
+736;G-1990-071;1894;unbekannter Künstler, evtl. J. Fürst;-;-
+737;G-1990-115;1894;Fürst, Julius (1861-1938);-;-
+738;G-1991-142;1894;Fürst, Julius (1861-1938);-;-
+739;G-1991-174;1894;Fürst, Julius (1861-1938);-;-
+740;G-1990-146-001;1894;unbekannter Künstler;-;-
+741;G-1990-052;1895;Fürst, Julius (1861-1938);-;-
+742;G-1990-076;1895;Fürst, Julius (1861-1938);-;-
+743;G-1990-096;1895;Fürst, Julius (1861-1938);;
+744;G-1990-137;1895;unbekannter Künstler, evtl. Fürst;-;-
+745;G-1990-139;1895;Fürst, Julius (1861-1938);-;-
+746;G-1990-157;1895;Fürst, Julius (1861-1938);-;-
+747;G-1990-167;1895;Fürst, Julius (1861-1938);-;-
+748;G-1991-013;1895;Fürst, Julius (1861-1938);-;-
+749;G-1991-098;1895;Fürst, Julius (1861-1938);;
+750;G-1991-126;1895;Fürst, Julius (1861-1938);-;-
+751;G-1991-172;1895;Fürst, Julius (1861-1938);-;-
+752;G-1991-185;1895;Fürst, Julius, auf der Rückseite mit Bleistift signiert (1861-1938);-;-
+753;G-1991-453;1895;Fürst, Julius (1861-1938);-;-
+754;G-1991-527;1895;Fürst, Julius (1861-1938);-;-
+755;G-1991-549;1895;Fürst, Julius (1861-1938);-;-
+756;G-1991-610;1895;Fürst, Julius, mit Bleistift auf der Rückseite mittig signiert (1861-1938);-;-
+757;G-1991-192;1896;;-;-
+758;G-1991-380;1896;Fürst, Julius (1861-1938);-;-
+759;G-1990-153;1897;;-;-
+760;G-1991-055;1898;Fürst, Julius (1861-1938);;
+761;G-1990-027;19. Jahrhundert;unbekannter Künstler, evtl. Prof. Stromeyer?;-;-
+762;G-1991-042;19. Jahrhundert;unbekannter Künstler;-;-
+763;G-1991-082;19. Jahrhundert;Resener, C.;-;-
+764;G-1991-108;19. Jahrhundert;unbekannter Künstler;-;-
+765;G-1991-193;19. Jahrhundert;unbekannter Künstler;-;-
+766;G-1990-029;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+767;G-1990-037;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+768;G-1990-097;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+769;G-1990-100;2. Hälfte 19. Jahrhundert;Döring, Dr.;-;-
+770;G-1990-110;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+771;G-1990-113;2. Hälfte 19. Jahrhundert;unbekannter Künstler, evtl. Fürst;-;-
+772;G-1990-114;2. Hälfte 19. Jahrhundert;unbekannter Künstler, Julius Fürst?;-;-
+773;G-1990-156;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+774;G-1990-159;2. Hälfte 19. Jahrhundert;;-;-
+775;G-1990-160;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+776;G-1990-168;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+777;G-1990-169;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+778;G-1990-172;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+779;G-1990-173;2. Hälfte 19. Jahrhundert;;-;-
+780;G-1990-174;2. Hälfte 19. Jahrhundert;;-;-
+781;G-1990-194;2. Hälfte 19. Jahrhundert;Lithographische Anstalt F. Reinhold, München;-;-
+782;G-1990-195;2. Hälfte 19. Jahrhundert;;-;-
+783;G-1990-196;2. Hälfte 19. Jahrhundert;;-;-
+784;G-1991-091;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+785;G-1991-237;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+786;G-1991-419;2. Hälfte 19. Jahrhundert;Rettich, Karl Lorenz (1841-1904);-;-
+787;G-1991-467;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+788;G-1991-476;2. Hälfte 19. Jahrhundert;;-;-
+789;G-1991-478;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+790;G-1991-481;2. Hälfte 19. Jahrhundert;;-;-
+791;G-1991-486;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+792;G-1991-491;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+793;G-1991-493;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+794;G-1991-499;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+795;G-1991-500;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+796;G-1991-501;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+797;G-1991-505;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+798;G-1991-554;2. Hälfte 19. Jahrhundert;;-;-
+799;G-1991-562;2. Hälfte 19. Jahrhundert;unbekannter Künstler;-;-
+800;G-1991-633;2. Hälfte 19. Jahrhundert;;-;-
+801;G-1991-195;3. Drittel 19. Jahrhundert;unbekannter Künstler, Pr;-;-
+802;G-1991-268;3. Viertel 19. Jahrhundert;Atinchlig,, tätig um 1856;-;-
+803;G-1990-138;4. Viertel 19. Jahrhundert;Fürst, Julius (1861-1938);-;-
+804;G-1991-479;Mitte 19. Jahrhundert;Wittmaack, Johann Heinrich (1822-1874);-;-
+805;G-1991-635;Mitte 19. Jahrhundert;Mencke, Dr.;-;-
+806;G-1990-104_1;;;-;-
+807;G-1990-104_2;;;-;-
+808;G-1990-105_1;;;-;-
+809;G-1990-105_2;;;-;-
+810;G-1990-133_1;;;-;-
+811;G-1990-140_1;;;-;-
+812;G-1990-140_2;;;-;-
+813;G-1990-146-002(b);;;-;-
+814;G-1990-146;;;-;-
+815;G-1990-166;;;-;-
+816;G-1991-029;;;-;-
+817;G-1991-061;;;-;-
+818;G-1991-065;;;-;-
+819;G-1991-116;;;-;-
+820;G-1991-203;;;-;-
+821;G-1991-206;;;-;-
+822;G-1991-269;;;-;-
+823;G-1991-325;;;-;-
+824;G-1991-348;;;-;-
+825;G-1991-349;;;-;-
+826;G-1991-371;;;-;-
+827;G-1991-398_2;;;-;-
+828;G-1991-451;;;-;-
+829;G-1991-461;;;-;-
+830;G-1991-471;;;-;-
+831;G-1991-485;;;-;-
+832;G-1991-523;;;-;-
+833;G-1991-552;;;-;-
+834;G-1991-559;;;-;-
+835;G-1991-589c-003;;;-;-
